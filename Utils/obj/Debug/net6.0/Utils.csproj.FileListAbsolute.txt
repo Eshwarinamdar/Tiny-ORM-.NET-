@@ -1,0 +1,12 @@
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\bin\Debug\net6.0\Utils.deps.json
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\bin\Debug\net6.0\Utils.dll
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\bin\Debug\net6.0\Utils.pdb
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.csproj.AssemblyReference.cache
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.AssemblyInfoInputs.cache
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.AssemblyInfo.cs
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.csproj.CoreCompileInputs.cache
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.dll
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\refint\Utils.dll
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\Utils.pdb
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\Utils\obj\Debug\net6.0\ref\Utils.dll

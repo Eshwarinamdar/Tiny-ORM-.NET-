@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "POCO/1.0.0": {
+        "dependencies": {
+          "AttributeLib": "1.0.0"
+        },
+        "runtime": {
+          "POCO.dll": {}
+        }
+      },
+      "AttributeLib/1.0.0": {
+        "runtime": {
+          "AttributeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POCO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

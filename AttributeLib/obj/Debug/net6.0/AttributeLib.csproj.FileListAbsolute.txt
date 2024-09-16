@@ -1,0 +1,11 @@
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\bin\Debug\net6.0\AttributeLib.deps.json
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\bin\Debug\net6.0\AttributeLib.dll
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\bin\Debug\net6.0\AttributeLib.pdb
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\AttributeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\AttributeLib.AssemblyInfoInputs.cache
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\AttributeLib.AssemblyInfo.cs
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\AttributeLib.csproj.CoreCompileInputs.cache
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\AttributeLib.dll
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\refint\AttributeLib.dll
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\AttributeLib.pdb
+D:\Eshwar\Sunbeam Pdac\DotNet\Database-Server-Client-MenuDriven\AttributeLib\obj\Debug\net6.0\ref\AttributeLib.dll
